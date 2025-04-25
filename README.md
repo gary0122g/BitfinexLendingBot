@@ -23,7 +23,6 @@ The bot employs a dual-strategy approach to fund allocation:
 The project has established essential infrastructure including:
 - Robust Bitfinex API integration
 - Secure authentication handling
-- Real-time market data processing
 - Basic wallet management
 - Order execution system
 - Fund allocation management
