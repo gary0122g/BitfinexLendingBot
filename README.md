@@ -28,8 +28,10 @@ The project has established essential infrastructure including:
 - Fund allocation management
 
 ## Future Development
-While the basic infrastructure is in place, the core focus for future development is on enhancing the lending strategies, which are crucial for maximizing returns. Planned improvements include:
+While the basic infrastructure is in place, the core focus for future development is on enhancing the lending strategies, which are crucial for maximizing returns. For funding rate anaylsis and prediction please visit
+https://github.com/gary0122g/BitfinexFundingRateAnalysis
 
+Future improvements include:
 - Advanced rate prediction algorithms
 - Dynamic allocation ratios
 - Market trend analysis
