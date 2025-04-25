@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Bitfinex Lending Bot
 
 ## Overview
@@ -68,6 +68,4 @@ We welcome contributions, especially in the areas of:
 
 ## License
 [MIT License](LICENSE)
-=======
-# BitfinexLendingbot
->>>>>>> dc65d2a521324c08c2e5e4a1249026d883a9c40b
+
