@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-
-	strategy.StrategyManager()
-
+	for {
+		strategy.StrategyManager()
+	}
 }
